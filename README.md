@@ -2,7 +2,7 @@
 
 This is just a quick & dirty proof of concept to test out the use of [OpenAI's API](https://platform.openai.com/docs/guides/vision) for generating alternate text for images.
 
-As a general rule, I don't believe in using AI-generated alt text for images, but I do think it can be useful for suggesting alternate text. It is likely that [Eventably] (https://eventably.com) will use alt-text suggestions to help organizers create more inclusive content when creating events.
+As a general rule, I don't believe in using AI-generated alt text for images, but I do think it can be useful for suggesting alternate text. It is likely that [Eventably](https://eventably.com) will use alt-text suggestions to help organizers create more inclusive content when creating events.
 
 ## How to use
 
